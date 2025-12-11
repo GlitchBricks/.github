@@ -2,18 +2,6 @@
 
 GlitchBricks is a modular playground for creative manipulation of analog A/V signals. Its primary goal is to make circuit bending accessible, modular, and (optionally) programmable — empowering artists, hackers, experimenters, and beginners to build their own evolving glitch instruments.
 
-## Overview
-
-The GlitchBricks platform stands on two foundational pillars:
-
-- **OAVCP (Open Analog Voltage Control Protocol)**  
-  A lightweight, open, addressable control protocol that provides centralized or distributed control across an entire modular rig. It allows automation, preset recall, scripting, synchronized modulation, and deep integration with custom “brain” modules or external controllers.
-
-- **GBCB (GlitchBricks Communication Bus)**  
-  The hardware bus that lets modules chain together physically and electronically. It carries analog video, sync, power rails, and the OAVCP control signals — enabling a consistent, open-ended way to combine modules into powerful creative pipelines.
-
-Together, these two systems form a hybrid analog/digital ecosystem where experimentation is encouraged, chaos is welcome, and structured control is available when you want it.
-
 ---
 
 ## What Is GlitchBricks?
@@ -25,6 +13,20 @@ GlitchBricks is an **open modular format** designed for building creative A/V in
 - the precision of digital control protocols.
 
 It’s designed to scale from simple hands-on tiles to advanced hybrid modules with internal DSP, programmable behavior, or custom hardware.
+
+---
+
+## The Platform
+
+The GlitchBricks platform stands on two foundational pillars:
+
+- **OAVCP (Open Analog Voltage Control Protocol)**  
+  A lightweight, open, addressable control protocol that provides centralized or distributed control across an entire modular rig. It allows automation, preset recall, scripting, synchronized modulation, and deep integration with custom “brain” modules or external controllers.
+
+- **GBCB (GlitchBricks Communication Bus)**  
+  The hardware bus that lets modules chain together physically and electronically. It carries analog video, sync, power rails, and the OAVCP control signals — enabling a consistent, open-ended way to combine modules into powerful creative pipelines.
+
+Together, these two systems form a hybrid analog/digital ecosystem where experimentation is encouraged, chaos is welcome, and structured control is available when you want it.
 
 ---
 
